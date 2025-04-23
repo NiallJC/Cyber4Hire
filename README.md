@@ -38,20 +38,20 @@ This project allowed us to gain real-world experience in:
 
 ## ✅ Activities Completed
 
-| Task | Contributor |
-|------|-------------|
-| Brainstormed website ideas for untapped market | All |
-| Website hosting setup (InfinityFree) | Jacob |
-| SSL Certificate configuration | Jacob |
-| UI/UX Design, Logo, and Branding | Jacob |
-| User registration and login | Ian |
-| Multi-Factor Authentication using MiniOrange | Niall |
-| reCAPTCHA integration | Jacob |
-| Payment gateway setup | Jacob |
-| Product catalog design and sample population | Jacob |
-| MalCare and Jetpack security plugin configuration | Niall |
-| Website vulnerability scans and analysis | Ian |
-| Project presentation preparation | All |
+| Task | 
+|------|
+| Brainstormed website ideas for untapped market | 
+| Website hosting setup (InfinityFree) | 
+| SSL Certificate configuration | 
+| UI/UX Design, Logo, and Branding |
+| User registration and login |
+| Multi-Factor Authentication using MiniOrange |
+| reCAPTCHA integration | 
+| Payment gateway setup |
+| Product catalog design and sample population | 
+| MalCare and Jetpack security plugin configuration | 
+| Website vulnerability scans and analysis |
+| Project presentation preparation | 
 
 ---
 
